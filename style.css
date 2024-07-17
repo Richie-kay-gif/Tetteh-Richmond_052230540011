@@ -1,0 +1,46 @@
+*{
+    padding-top: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card-img-top{
+    border-radius: 50px;
+    padding: 20px;
+    width: 500px; 
+    height: 450px;
+
+}
+.card{
+    border-radius: 30px;
+    width: 500px; 
+    height: 500px;
+    box-shadow: rgba(3, 102, 0, 0.3) 0px 0px 0px 3px;
+}
+.card-body{
+    padding: 25px;
+    margin: -15px;
+
+}
+.btn-primary{
+    border-radius: 50px;
+    width: 120;
+}
+.btn-primary:hover{
+    background-color: black;
+}
+.button{
+    text-align: right;
+}
+p{
+    border-radius: 70px;
+    height: 50;
+}
+h1{text-align: center;
+
+}
+.nan{
+    background-color: rgb(2, 7, 7);
+}
+h5{
+    color: rgb(124, 199, 243);
+}
